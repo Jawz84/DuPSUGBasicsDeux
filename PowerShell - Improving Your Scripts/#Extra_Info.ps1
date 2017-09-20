@@ -1,8 +1,7 @@
 Get-Help about_Functions_Advanced
-help about_Functions_Advanced
-help about_Functions_Advanced_Parameters
-help about_Functions_CmdletBindingAttribute
-help about_Comment_Based_Help
+Get-Help about_Functions_Advanced_Parameters
+Get-Help about_Functions_CmdletBindingAttribute
+Get-Help about_Comment_Based_Help
 
 <#
     While innitialy some users might prefer function over form, I'd recommend the following steps [assuming your script remains functional of course]:
